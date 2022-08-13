@@ -1,4 +1,4 @@
-print('"food menu"\n')
+
 a=input('Do you like to eat? 1.yes or 2.no? ')
 if a=='1' or a=='yes':
     print('welcome to hotel "Red apple"')
