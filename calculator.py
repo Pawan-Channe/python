@@ -1,3 +1,5 @@
+
+
 print('Calculator')
 num=int(input('enter first number '))
 num2=int(input('enter second number '))
@@ -22,3 +24,5 @@ elif ope=='%':
     print('Modulus')
 else:
     print('enter a valid operator')
+    
+    
