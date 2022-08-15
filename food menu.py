@@ -1,4 +1,6 @@
 
+
+
 a=input('Do you like to eat? 1.yes or 2.no? ')
 if a=='1' or a=='yes':
     print('welcome to hotel "Red apple"')
@@ -142,9 +144,6 @@ if a=='1' or a=='yes':
                     print('25rs')
 else:
     print("Good bye..!")
-
-
-
 
 
 
