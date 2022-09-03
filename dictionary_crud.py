@@ -1,4 +1,3 @@
-
 new={}
 while True:
     print('\npress 1 for create\npress 2 for read\npress 3 for update\npress 4 for delete\npress 5 for exit\n')
@@ -70,6 +69,4 @@ while True:
     else:
         print("\nOops choice does not exist")
         print("Please try again..!\n")
-
-        
 
