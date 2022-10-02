@@ -1,6 +1,4 @@
 
-
-
 import json,requests,pprint
 from bs4 import BeautifulSoup
 
